@@ -1,0 +1,6 @@
+{
+  "name": "PC Tech Kenya",
+  "description": "Premium E-commerce and inventory management platform for computers, laptops, parts, and accessories with integrated Kenyan M-Pesa payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
